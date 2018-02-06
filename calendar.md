@@ -5,12 +5,12 @@ permalink: /calendar/
 ---
 
 <meta charset='utf-8' />
-<link href='/assets/css/fullcalendar.min.css' rel='stylesheet' />
-<link href='/assets/css/fullcalendar.print.min.css' rel='stylesheet' media='print' />
-<script src='/assets/js/moment.min.js'></script>
-<script src='/assets/js/jquery.min.js'></script>
-<script src='/assets/js/fullcalendar.min.js'></script>
-<script src='/assets/js/gcal.min.js'></script>
+<link href="{{ "/assets/css/fullcalendar.min.css" | prepend: site.baseurl }}" rel="stylesheet" />
+<link href="{{ "/assets/css/fullcalendar.print.min.css" | prepend: site.baseurl }}" rel="stylesheet" media="print" />
+<script src="{{ "/assets/js/moment.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/fullcalendar.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/gcal.min.js" | prepend: site.baseurl }}"></script>
 <script>
 
   $(document).ready(function() {
