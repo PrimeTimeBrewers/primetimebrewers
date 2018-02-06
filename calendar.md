@@ -23,8 +23,6 @@ permalink: /calendar/
         right: 'month,listYear'
       },
 
-      displayEventTime: false, // don't show the time column in list view
-
       googleCalendarApiKey: '{{ site.google.api_key }}',
 
       events: {
@@ -37,15 +35,10 @@ permalink: /calendar/
         return false;
       },
 
-      loading: function(bool) {
-        $('#loading').toggle(bool);
-      }
-
     });
 
   });
 
 </script>
-<div id='loading'>loading...</div>
 
 <div id='calendar'></div>
