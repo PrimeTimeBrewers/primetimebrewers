@@ -20,7 +20,7 @@ next_meeting: >
   5295 West River Dr NE #100
   Comstock Park
 tagline: West Michigan's Premiere Homebrewing Club
-#baseurl: "/primetimebrewers" # the subpath of your site, e.g. /blog
+baseurl: "/primetimebrewers" # the subpath of your site, e.g. /blog
 url: "https://dotps1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
