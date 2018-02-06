@@ -1,0 +1,12 @@
+# blog page sections
+- name: Calendar
+  href: '/calendar/'
+
+- name: About
+  href: '/about/'
+
+- name: Rubber Chicken
+  href: '/rubber-chicken/'
+
+- name: Brewer Of The Year
+  href: '/brewer-of-the-year/'

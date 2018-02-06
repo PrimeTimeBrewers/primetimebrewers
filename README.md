@@ -1,2 +1,1 @@
-# primetimebrewers
-Repo for the PrimeTime Brewers of Grand Rapids website.
+PrimeTime Brewers of Grand Rapids Michigan
