@@ -20,7 +20,7 @@ next_meeting: >
   5295 West River Dr NE #100
   Comstock Park
 tagline: West Michigan's Premiere Homebrewing Club
-baseurl: "/primetimebrewers" # the subpath of your site, e.g. /blog
+# baseurl: "/primetimebrewers" # the subpath of your site, e.g. /blog
 url: "https://dotps1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -28,14 +28,24 @@ author:
   name: 'Thomas'
   last_name: 'Malkewitz'
   email: primetimebrewersmi@gmail.com
-  logo: '/images/logo.png'
+  logo: '/images/PTB.png'
   facebook: https://www.facebook.com/PrimeTimeBrewers/
   paypal: https://www.paypal.me/PrimeTimeBrewers/
 
 about: >
-  The Primetime Brewers are a West Michigan homebrew club, based in Grand Rapids.   We have meetings the 3rd Wednesday of every month at 7pm.  Well, we actually meet at 6, if you have a beer for judging:  6:00 to participate in judging the style of the month, 7:00 is the start of the meeting. We encourage everyone, members or not, to come to meetings and check us out.  Bring your homebrew to share and get feedback from experience brewers.
-  We also gather informally the first Thursday of the month for what we call “Thursty Thirsday” at one of the local beer bars or breweries, where we enjoy Happy Hour.
-  Our members are first time brewers all the way up to national award winners and professional brewers.  We are an American Homebrewers Association sanctioned club.  We participate in AHA functions, such as Learn to Homebrew Day, Big Brew and Mead Day.  We have two major club activities during the year, Pig Roast in September, and our Christmas Party/Auction in December.  Our dues are $20.  Your membership card gets you 10% off homebrew supplies from our local vendors.  Check this website for times and dates of our meetings and functions.
+  The Primetime Brewers are a West Michigan homebrew club, based in Grand Rapids.   
+  We have meetings the 3rd Wednesday of every month at 7pm.  
+  Well, we actually meet at 6, if you have a beer for judging:
+  6:00 to participate in judging the style of the month, 7:00 is the start of the meeting. We encourage everyone, members or not, to come to meetings and check us out.  
+  Bring your homebrew to share and get feedback from experience brewers.
+  We also gather informally the first Thursday of the month for what we call "Thursty Thirsday" at one of the local beer bars or breweries, where we enjoy Happy Hour.
+  Our members are first time brewers all the way up to national award winners and professional brewers. 
+  We are an American Homebrewers Association sanctioned club.  
+  We participate in AHA functions, such as Learn to Homebrew Day, Big Brew and Mead Day.  
+  We have two major club activities during the year, Pig Roast in September, and our Christmas Party/Auction in December.  
+  Our dues are $20.
+  Your membership card gets you 10% off homebrew supplies from our local vendors.  
+  Check this website for times and dates of our meetings and functions.
   Please contact us if you have any questions at primetimebrewersmi@gmail.com or hit up one of our officers.
 
 google:
