@@ -7,8 +7,8 @@ icon: rubber-chicken
 author: Chad Zomerlei
 ---
 
-<object width="100%" height="500px" data="{{ "/rubber-chicken-pdfs/RC-FEB-18.pdf" | prepend: site.baseurl }}" type="application/pdf">
-  <iframe width="100%" height="100%" src="{{ "/rubber-chicken-pdfs/RC-FEB-18.pdf" | prepend: site.baseurl }}" style="border: none;">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ "/rubber-chicken-pdfs/RC-FEB-18.pdf" | prepend: site.baseurl }}">Download PDF</a>
+  <object width="100%" style="height:calc(100vh - 556px);" data="https://primetimebrewers.github.io/rubber-chicken-pdfs/RC-FEB-18.pdf" type="application/pdf" internalinstanceid="4" title="">
+  <iframe width="100%" height="100%" src="https://primetimebrewers.github.io/rubber-chicken-pdfs/RC-FEB-18.pdf" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: &lt;a href="/rubber-chicken-pdfs/RC-FEB-18.pdf"&gt;Download PDF&lt;/a&gt;
   </iframe>
 </object>
