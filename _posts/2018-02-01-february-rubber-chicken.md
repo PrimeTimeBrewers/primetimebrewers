@@ -7,7 +7,7 @@ icon: rubber-chicken
 author: Chad Zomerlei
 ---
 
-<object width="100%" height="100%" data="{{ "/rubber-chicken-pdfs/RC-FEB-18.pdf" | prepend: site.baseurl }}" type="application/pdf">
+<object width="100%" height="500px" data="{{ "/rubber-chicken-pdfs/RC-FEB-18.pdf" | prepend: site.baseurl }}" type="application/pdf">
   <iframe width="100%" height="100%" src="{{ "/rubber-chicken-pdfs/RC-FEB-18.pdf" | prepend: site.baseurl }}" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ "/rubber-chicken-pdfs/RC-FEB-18.pdf" | prepend: site.baseurl }}">Download PDF</a>
   </iframe>
