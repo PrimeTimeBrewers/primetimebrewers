@@ -4,7 +4,7 @@ title:  "Rubber Chicken February 2018"
 date:   2018-02-01 14:00:00 -0500
 category: rubber-chicken
 icon: rubber-chicken
-author: Thomas Malkewitz
+author: Chad Zomerlei
 ---
 
 ### Life is Easier than Ever  

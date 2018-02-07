@@ -11,6 +11,7 @@ layout: default
       </div>
       <div class="meta">
         <time class="published" datetime="{{ post.date }}">{{ post.date | date: "%d %b %Y %R" }}</time>
+        <span class="author">By: {{ post.author }}</span>
       </div>
     </header>
     {% if post.image %}
