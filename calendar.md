@@ -29,6 +29,8 @@ permalink: /calendar/
           googleCalendarId: '{{ site.google.calendar_id }}'
       },
 
+      aspectRatio: 1.605,
+
       eventClick: function(event) {
         // opens events in a popup window
         window.open(event.url, 'gcalevent', 'width=700,height=600');
