@@ -1,9 +1,9 @@
 # blog page sections
-- name: Calendar
-  href: '/calendar/'
-
 - name: About
   href: '/about/'
+
+- name: Calendar
+  href: '/calendar/'
 
 - name: Rubber Chicken
   href: '/rubber-chicken/'
