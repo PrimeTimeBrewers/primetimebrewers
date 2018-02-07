@@ -29,7 +29,7 @@ permalink: /calendar/
           googleCalendarId: '{{ site.google.calendar_id }}'
       },
 
-      aspectRatio: 1.605,
+      contentHeight: "auto",
 
       eventClick: function(event) {
         // opens events in a popup window
